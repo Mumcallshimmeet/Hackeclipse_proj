@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SHIFTLY360</string>
+    
+    <!-- Bottom Navigation -->
+    <string name="shifts">शिफ्ट</string>
+    <string name="schedule">वेळापत्रक</string>
+    <string name="communication">चॅट</string>
+    <string name="learning">शिका</string>
+    <string name="profile">प्रोफाइल</string>
+    
+    <!-- Shift Management -->
+    <string name="start_shift">शिफ्ट सुरू करा</string>
+    <string name="end_shift">शिफ्ट संपवा</string>
+    <string name="take_break">विश्रांती घ्या</string>
+    <string name="return_from_break">परत या</string>
+    <string name="awaiting_approval">मंजुरीची वाट पाहत आहे</string>
+    <string name="approved">मंजूर</string>
+    <string name="rejected">नाकारले</string>
+    <string name="hour_warning">तुम्ही कमाल तासांजवळ पोहोचत आहात!</string>
+    <string name="phone_usage_warning">कृपया शिफ्टदरम्यान फोन वापरू नका</string>
+    
+    <!-- Schedule & Coordination -->
+    <string name="available_shifts">उपलब्ध शिफ्ट</string>
+    <string name="my_schedule">माझे वेळापत्रक</string>
+    <string name="swap_request">अदलाबदलीची विनंती</string>
+    <string name="preferred_workers">पसंतीचे कामगार</string>
+    <string name="quick_hire">त्वरित नोकरी</string>
+    
+    <!-- Communication -->
+    <string name="announcements">घोषणा</string>
+    <string name="messages">संदेश</string>
+    <string name="report_issue">समस्या नोंदवा</string>
+    <string name="voice_command">व्हॉइस कमांड</string>
+    
+    <!-- Learning & Development -->
+    <string name="daily_lessons">दैनिक धडे</string>
+    <string name="my_certificates">माझी प्रमाणपत्रे</string>
+    <string name="growth_path">प्रगती मार्ग</string>
+    <string name="top_workers">सर्वोत्तम कामगार</string>
+    
+    <!-- Accessibility -->
+    <string name="change_language">भाषा बदला</string>
+    <string name="audio_instructions">ऑडिओ सूचना</string>
+    <string name="help">मदत</string>
+    
+    <!-- Safety -->
+    <string name="sos">तातडीची मदत</string>
+    <string name="safety_alert">सुरक्षा सूचना</string>
+    
+    <!-- Community -->
+    <string name="worker_stories">कामगारांच्या कथा</string>
+    <string name="monthly_heroes">महिन्याचे नायक</string>
+    <string name="celebrations">उत्सव</string>
+
+    <!-- Service Descriptions -->
+    <string name="shift_timer_description">तुमच्या कामाच्या शिफ्टचा कालावधी आणि विश्रांती ट्रॅक करते</string>
+</resources> 

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "314215450565",
+    "project_id": "shiftly360",
+    "storage_bucket": "shiftly360.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314215450565:android:05b59dc155b0b188a96dac",
+        "android_client_info": {
+          "package_name": "com.example.shifly360"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGxnGlE71T6pfe-QUatL8_EPyEXsw9wzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314215450565:android:a400881f608d16b7a96dac",
+        "android_client_info": {
+          "package_name": "com.example.shiftly360"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGxnGlE71T6pfe-QUatL8_EPyEXsw9wzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SHIFTLY360</string>
+    
+    <!-- Bottom Navigation -->
+    <string name="shifts">ஷிப்ட்கள்</string>
+    <string name="schedule">அட்டவணை</string>
+    <string name="communication">அரட்டை</string>
+    <string name="learning">கற்றல்</string>
+    <string name="profile">சுயவிவரம்</string>
+    
+    <!-- Shift Management -->
+    <string name="start_shift">ஷிப்ட் தொடங்கு</string>
+    <string name="end_shift">ஷிப்ட் முடி</string>
+    <string name="take_break">இடைவேளை எடு</string>
+    <string name="return_from_break">திரும்பி வா</string>
+    <string name="awaiting_approval">ஒப்புதலுக்காக காத்திருக்கிறது</string>
+    <string name="approved">ஒப்புதல் அளிக்கப்பட்டது</string>
+    <string name="rejected">நிராகரிக்கப்பட்டது</string>
+    <string name="hour_warning">அதிகபட்ச நேரத்தை நெருங்குகிறீர்கள்!</string>
+    <string name="phone_usage_warning">ஷிப்டின் போது தயவுசெய்து போனைப் பயன்படுத்த வேண்டாம்</string>
+    
+    <!-- Schedule & Coordination -->
+    <string name="available_shifts">கிடைக்கும் ஷிப்ட்கள்</string>
+    <string name="my_schedule">எனது அட்டவணை</string>
+    <string name="swap_request">மாற்று கோரிக்கை</string>
+    <string name="preferred_workers">விருப்பமான தொழிலாளர்கள்</string>
+    <string name="quick_hire">விரைவு வேலை</string>
+    
+    <!-- Communication -->
+    <string name="announcements">அறிவிப்புகள்</string>
+    <string name="messages">செய்திகள்</string>
+    <string name="report_issue">பிரச்சினையை புகார் செய்</string>
+    <string name="voice_command">குரல் கட்டளை</string>
+    
+    <!-- Learning & Development -->
+    <string name="daily_lessons">தினசரி பாடங்கள்</string>
+    <string name="my_certificates">எனது சான்றிதழ்கள்</string>
+    <string name="growth_path">வளர்ச்சி பாதை</string>
+    <string name="top_workers">சிறந்த தொழிலாளர்கள்</string>
+    
+    <!-- Accessibility -->
+    <string name="change_language">மொழி மாற்று</string>
+    <string name="audio_instructions">ஒலி வழிமுறைகள்</string>
+    <string name="help">உதவி</string>
+    
+    <!-- Safety -->
+    <string name="sos">அவசர உதவி</string>
+    <string name="safety_alert">பாதுகாப்பு எச்சரிக்கை</string>
+    
+    <!-- Community -->
+    <string name="worker_stories">தொழிலாளர் கதைகள்</string>
+    <string name="monthly_heroes">மாத நாயகர்கள்</string>
+    <string name="celebrations">கொண்டாட்டங்கள்</string>
+
+    <!-- Service Descriptions -->
+    <string name="shift_timer_description">உங்கள் வேலை ஷிப்ட் காலம் மற்றும் இடைவேளைகளை கண்காணிக்கிறது</string>
+</resources> 

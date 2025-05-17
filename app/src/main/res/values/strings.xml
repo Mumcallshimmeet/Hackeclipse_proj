@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">SHIFTLY360</string>
+    
+    <!-- Bottom Navigation -->
+    <string name="shifts">Shifts</string>
+    <string name="schedule">Schedule</string>
+    <string name="communication">Chats</string>
+    <string name="learning">Learn</string>
+    <string name="profile">Profile</string>
+    
+    <!-- Shift Management -->
+    <string name="start_shift">Start Shift</string>
+    <string name="end_shift">End Shift</string>
+    <string name="take_break">Take Break</string>
+    <string name="return_from_break">Return</string>
+    <string name="awaiting_approval">Awaiting Approval</string>
+    <string name="approved">Approved</string>
+    <string name="rejected">Rejected</string>
+    <string name="hour_warning">You\'re approaching maximum hours!</string>
+    <string name="phone_usage_warning">Please don\'t use your phone during shift</string>
+    
+    <!-- Schedule & Coordination -->
+    <string name="available_shifts">Available Shifts</string>
+    <string name="my_schedule">My Schedule</string>
+    <string name="swap_request">Request Swap</string>
+    <string name="preferred_workers">Preferred Workers</string>
+    <string name="quick_hire">Quick Hire</string>
+    
+    <!-- Communication -->
+    <string name="announcements">Announcements</string>
+    <string name="messages">Messages</string>
+    <string name="report_issue">Report Issue</string>
+    <string name="voice_command">Voice Command</string>
+    
+    <!-- Learning & Development -->
+    <string name="daily_lessons">Daily Lessons</string>
+    <string name="my_certificates">My Certificates</string>
+    <string name="growth_path">Growth Path</string>
+    <string name="top_workers">Top Workers</string>
+    
+    <!-- Accessibility -->
+    <string name="change_language">Change Language</string>
+    <string name="audio_instructions">Audio Instructions</string>
+    <string name="help">Help</string>
+    
+    <!-- Safety -->
+    <string name="sos">SOS</string>
+    <string name="safety_alert">Safety Alert</string>
+    
+    <!-- Community -->
+    <string name="worker_stories">Worker Stories</string>
+    <string name="monthly_heroes">Monthly Heroes</string>
+    <string name="celebrations">Celebrations</string>
+
+    <!-- Service Descriptions -->
+    <string name="shift_timer_description">Tracks your work shift duration and breaks</string>
+</resources>

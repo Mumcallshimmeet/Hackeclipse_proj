@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SHIFTLY360</string>
+    
+    <!-- Bottom Navigation -->
+    <string name="shifts">শিফট</string>
+    <string name="schedule">সময়সূচী</string>
+    <string name="communication">চ্যাট</string>
+    <string name="learning">শিখুন</string>
+    <string name="profile">প্রোফাইল</string>
+    
+    <!-- Shift Management -->
+    <string name="start_shift">শিফট শুরু করুন</string>
+    <string name="end_shift">শিফট শেষ করুন</string>
+    <string name="take_break">বিরতি নিন</string>
+    <string name="return_from_break">ফিরে আসুন</string>
+    <string name="awaiting_approval">অনুমোদনের অপেক্ষায়</string>
+    <string name="approved">অনুমোদিত</string>
+    <string name="rejected">প্রত্যাখ্যাত</string>
+    <string name="hour_warning">আপনি সর্বোচ্চ ঘণ্টার কাছাকাছি!</string>
+    <string name="phone_usage_warning">শিফটের সময় ফোন ব্যবহার করবেন না</string>
+    
+    <!-- Schedule & Coordination -->
+    <string name="available_shifts">উপলব্ধ শিফট</string>
+    <string name="my_schedule">আমার সময়সূচী</string>
+    <string name="swap_request">বদলের অনুরোধ</string>
+    <string name="preferred_workers">পছন্দের কর্মী</string>
+    <string name="quick_hire">দ্রুত নিয়োগ</string>
+    
+    <!-- Communication -->
+    <string name="announcements">ঘোষণা</string>
+    <string name="messages">বার্তা</string>
+    <string name="report_issue">সমস্যা রিপোর্ট করুন</string>
+    <string name="voice_command">ভয়েস কমান্ড</string>
+    
+    <!-- Learning & Development -->
+    <string name="daily_lessons">দৈনিক পাঠ</string>
+    <string name="my_certificates">আমার সার্টিফিকেট</string>
+    <string name="growth_path">বৃদ্ধির পথ</string>
+    <string name="top_workers">সেরা কর্মী</string>
+    
+    <!-- Accessibility -->
+    <string name="change_language">ভাষা পরিবর্তন</string>
+    <string name="audio_instructions">অডিও নির্দেশনা</string>
+    <string name="help">সাহায্য</string>
+    
+    <!-- Safety -->
+    <string name="sos">জরুরি সাহায্য</string>
+    <string name="safety_alert">নিরাপত্তা সতর্কতা</string>
+    
+    <!-- Community -->
+    <string name="worker_stories">কর্মীদের গল্প</string>
+    <string name="monthly_heroes">মাসের সেরা</string>
+    <string name="celebrations">উদযাপন</string>
+
+    <!-- Service Descriptions -->
+    <string name="shift_timer_description">আপনার কাজের শিফট সময় এবং বিরতি ট্র্যাক করে</string>
+</resources> 
